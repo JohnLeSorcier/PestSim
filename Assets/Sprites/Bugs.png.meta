@@ -1,0 +1,529 @@
+fileFormatVersion: 2
+guid: aedb80ded2ced774e88233c6135243ea
+timeCreated: 1443444756
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bugs_0
+    21300002: Bugs_1
+    21300004: Bugs_2
+    21300006: Bugs_3
+    21300008: Bugs_4
+    21300010: Bugs_5
+    21300012: Bugs_6
+    21300014: Bugs_7
+    21300016: Bugs_8
+    21300018: Bugs_9
+    21300020: Bugs_10
+    21300022: Bugs_11
+    21300024: Bugs_12
+    21300026: Bugs_13
+    21300028: Bugs_14
+    21300030: Bugs_15
+    21300032: Bugs_16
+    21300034: Bugs_17
+    21300036: Bugs_18
+    21300038: Bugs_19
+    21300040: Bugs_20
+    21300042: Bugs_21
+    21300044: Bugs_22
+    21300046: Bugs_23
+    21300048: Bugs_24
+    21300050: Bugs_25
+    21300052: Bugs_26
+    21300054: Bugs_27
+    21300056: Bugs_28
+    21300058: Bugs_29
+    21300060: Bugs_30
+    21300062: Bugs_31
+    21300064: Bugs_32
+    21300066: Bugs_33
+    21300068: Bugs_34
+    21300070: Bugs_35
+    21300072: Bugs_36
+    21300074: Bugs_37
+    21300076: Bugs_38
+    21300078: Bugs_39
+    21300080: Bugs_40
+    21300082: Bugs_41
+    21300084: Bugs_42
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bugs_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 230
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 231
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 230
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 235
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 235
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 235
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 233
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 233
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 233
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 200
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 200
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 200
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 200
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 201
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_16
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 199
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_17
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 200
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 170
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 170
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 170
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_21
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 169
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_22
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 168
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 169
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 167
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_25
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 166
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_26
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 168
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 22
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 134
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_29
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 135
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_30
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 134
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_31
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 134
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_32
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 134
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_33
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 136
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_34
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 136
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_35
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 136
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_36
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 107
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_37
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_38
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_39
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_40
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_41
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 9
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bugs_42
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 10
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

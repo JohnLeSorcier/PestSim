@@ -1,0 +1,38 @@
+0.0.1d
+-Bonus et malus actifs dans les meubles
+-Pathfinding pour les cafards
+
+0.0.1c (Proto 3)
+-Zone de test agrandi
+-Possibilité de détruire une brigade
+-Les brigades consomment de l'eau et de la nourriture
+-Ajout d'une jauge de détection général
+-Ajout de plusieurs humains
+-Amélioration de l'animation de déplacement de la brigade
+-(Editeur)Modification du choix de type de Brigade
+-Ajout des bonus/malus (non activé) pour les meubles
+-Ajout des meubles "solides"
+-Icones de colonies et de solidité des meubles
+-Les humains poursuivent et écrasent les cafards quand ils sont détectés
+-Les brigades costaudes peuvent briser les meubles solides pour exploiter son contenu
+-Ajout des brigades explorateur (qui peuvent coloniser) et saboteur (qui peuvent enlever le poison et stocker les éléments chimiques)
+-Pathfinding pour les humains
+-Icones dans le menu haut
+-Ajout d'un timer
+-Ajout d'un écran "HowTo"
+-Affinage de la détection et de l'écrasage
+-Affinage des valeurs de consommation et récupération de ressources
+
+0.0.1b (Proto 2)
+-Humain se déplaçant et détection
+-Jauge de contamination
+-Jauge de vie
+-Icone de brigade
+-Construction d'une extension de stockage
+
+0.0.1a (Proto 1)
+-Zone de test basique
+-(cafards)Brigades récolteurs et Costauds
+-Déplacement
+-Entrée et sortie d'un meuble
+-Collecte de nourriture d'eau et de construction
